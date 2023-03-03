@@ -91,7 +91,7 @@ public class MainTest {
         System.out.println(backend.hashCode());
         System.out.println(ui.hashCode());*/
 
-     /*   System.out.println(base.configurations);
+        /*System.out.println(base.configurations);
         System.out.println(backend.configurations);
         System.out.println(ui.configurations);*/
 
