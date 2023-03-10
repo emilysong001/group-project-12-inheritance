@@ -1,4 +1,4 @@
-package com.devxschool;
+package com.java;
 
 import org.junit.Test;
 

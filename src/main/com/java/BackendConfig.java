@@ -1,4 +1,4 @@
-package com.devxschool;
+package com.java;
 
 // TODO SETUP THIS CLASS
 public class BackendConfig extends TestBase {
